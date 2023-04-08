@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "A",
+      "priority": 1,
+      "children": [
+        {
+          "id": "A.1",
+          "priority": 2,
+          "children": [
+            {
+              "id": "A.1.1",
+              "priority": 2,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "priority": 2,
+      "children": [
+        {
+          "id": "B.1",
+          "priority": 3,
+          "children": null
+        },
+        {
+          "id": "B.2",
+          "priority": 3,
+          "children": null
+        },
+        {
+          "id": "B.3",
+          "priority": 3,
+          "children": null
+        },
+        {
+          "id": "B.4",
+          "priority": 1,
+          "children": null
+        },
+        {
+          "id": "B.5",
+          "priority": 1,
+          "children": null
+        },
+        {
+          "id": "B.6",
+          "priority": 1,
+          "children": null
+        }
+      ]
+    }
+  ],
+  "maxTaskCount": 5
+}
